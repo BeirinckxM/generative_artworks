@@ -1,2 +1,2 @@
 # generative_artworks
-Collection of script for generative artworks I made
+Collection of scripts for generative artworks I made using processing.py
